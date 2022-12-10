@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82D3F8"
+    tools:context=".Fragment.FragmentModule">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="7dp">
+
+
+        <TextView
+            android:id="@+id/decrireandroi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="113dp"
+            android:layout_marginTop="51dp"
+            android:layout_marginBottom="7dp"
+            android:paddingTop="10dp"
+            android:text="ORACLE DBA"
+            android:textColor="@color/black"
+            />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/decrireoracle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="application Mobile par ANDROID"
+        android:textColor="#0B0808"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/oraclename"
+        android:layout_width="302dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="107dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:paddingTop="10dp"
+        android:text="Développement d'application Mobile" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="101dp"
+        android:layout_height="94dp"
+        android:src="@drawable/orqcle" />
+
+    <EditText
+        android:id="@+id/androidname"
+        android:layout_width="302dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:paddingTop="10dp"
+        android:text="Administration Base donné Oracle"
+        tools:ignore="InvalidId" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="101dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="112dp"
+        android:src="@drawable/android" />
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="101dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/crypto" />
+
+    <EditText
+        android:id="@+id/cryptname"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="206dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="60dp"
+        android:paddingTop="10dp"
+        android:text="Cryptographie et analyse de donné" />
+
+    <TextView
+        android:id="@+id/crypdes"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="Analyse donné et cryptographie "
+        android:textColor="#131111" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="99dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="290dp"
+        android:src="@drawable/dotnet" />
+
+    <EditText
+        android:id="@+id/NETNAME"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="290dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="60dp"
+        android:paddingTop="10dp"
+        android:text="Technologie DotNet" />
+
+    <TextView
+        android:id="@+id/NETdes"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="C# et ASP.NET"
+        android:textColor="#070505" />
+    <ImageView
+        android:id="@+id/imageView88"
+        android:layout_width="99dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="390dp"
+        android:src="@drawable/uml" />
+
+    <EditText
+        android:id="@+id/UmlNAME"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="60dp"
+        android:paddingTop="10dp"
+        android:text="Genie Logicial et modélisation UML" />
+
+    <TextView
+        android:id="@+id/UMLdes"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="440dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="Modelisation avec UML"
+        android:textColor="#000000"
+        android:textStyle="bold|italic" />
+    <ImageView
+        android:id="@+id/imageViewL"
+        android:layout_width="99dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="480dp"
+        android:src="@drawable/langue" />
+
+    <EditText
+        android:id="@+id/LGNAME"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="490dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="60dp"
+        android:paddingTop="10dp"
+        android:text="Langue et communication" />
+
+    <TextView
+        android:id="@+id/LGdes"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="520dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="tec et Anglais"
+        android:textColor="#0E0B0B"
+        android:textStyle="bold|italic" />
+    <ImageView
+        android:id="@+id/imageViewM"
+        android:layout_width="99dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="570dp"
+        android:src="@drawable/marketing1" />
+
+    <EditText
+        android:id="@+id/MARNAME"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="580dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="60dp"
+        android:paddingTop="10dp"
+        android:text="marketing industriel" />
+
+    <TextView
+        android:id="@+id/MARdes"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="610dp"
+        android:layout_marginBottom="7dp"
+        android:paddingTop="10dp"
+        android:text="planification de production et marketing"
+        android:textColor="#000000"
+        android:textStyle="bold|italic" />
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_Register">
+
+    <fragment
+        android:id="@+id/nav_Module"
+        android:name="com.example.myschool.Fragment.FragmentModule"
+        android:label="@string/menu_Module"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_Emploie"
+        android:name="com.example.myschool.Fragment.FragmentNote"
+        android:label="@string/menu_Emploie"
+        tools:layout="@layout/fragment_note" />
+
+    <fragment
+        android:id="@+id/nav_Exam"
+        android:name="com.example.myschool.Fragment.FragmentExam"
+        android:label="@string/menu_Exams"
+        tools:layout="@layout/fragment_exam" />
+    <fragment
+        android:id="@+id/nav_TextNote"
+        android:name="com.example.myschool.Fragment.FragmentTextNote"
+        android:label="@string/menu_TextNote"
+        tools:layout="@layout/fragment_text_note" />
+    <fragment
+        android:id="@+id/nav_information"
+        android:name="com.example.myschool.Fragment.FragmentInformation"
+        android:label="@string/menu_information"
+        tools:layout="@layout/fragment_information" />
+    <fragment
+        android:id="@+id/nav_Register"
+        android:name="com.example.myschool.Fragment.FragmentRegister"
+        android:label="Register"
+        tools:layout="@layout/activity_register" />
+
+</navigation>

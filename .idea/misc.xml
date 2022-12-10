@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/drawable/ic_menu_camera.xml" value="0.147" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/drawable/info.xml" value="0.147" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/drawable/person.xml" value="0.1435" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/drawable/time.xml" value="0.161" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/activity_add_note.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/activity_main2.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/app_bar_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/content_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_exam.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_gallery.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_information.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_module.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_note.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_register.xml" value="0.1859375" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_slideshow.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/fragment_text_note.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/login_activity.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/nav_header_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/layout/personalise.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/menu/activity_main_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Android_Tutorials-master/Android_Tutorials-master/MySchool/app/src/main/res/menu/main.xml" value="0.14479166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

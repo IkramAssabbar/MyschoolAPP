@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MySchool</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">My School Application</string>
+    <string name="nav_header_subtitle">Ikram.Assabbar@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_Module">Module</string>
+    <string name="menu_Emploie">Emploie</string>
+    <string name="menu_Exams">Exams</string>
+    <string name="menu_TextNote">My Note</string>
+
+    <string name="menu_information">Information</string>
+    <string name="menu_commentaire">Rate US</string>
+    <string name="menu_note">Your Note</string>
+    <string name="menu_nom">Ikram Assabbar</string>
+    <string name="menu_filiere">Filiére: Génie Informatique</string>
+    <string name="menu_annee">Année: 2022/2023</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Module_fragment">Hello in Module Fragment</string>
+    <string name="Emploie_fragment">Hello in Emploie Fragement</string>
+    <string name="exam_fragment">Hello in Exam Fragement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Text_Note_Fragment">Hello In your note</string>
+    <string name="ecrire_votre_premiere_note">ecrire votre premiere note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Text_info">this is my First application with naviagtion Bar Created By Ikram Assabbar Genie Info 2:Ensa Fes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

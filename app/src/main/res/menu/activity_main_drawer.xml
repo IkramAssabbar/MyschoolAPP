@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="My Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/person"
+                    android:title="@string/menu_nom" />
+                <item
+                    android:id="@+id/nav_filiere"
+                    android:icon="@drawable/filiere"
+                    android:title="@string/menu_filiere" />
+                <item
+                    android:id="@+id/nav_annee"
+                    android:icon="@drawable/anne"
+                    android:title="@string/menu_annee" />
+            </group>
+        </menu>
+    </item>
+<item android:title="About School">
+    <menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_Module"
+                android:icon="@drawable/book"
+                android:title="@string/menu_Module" />
+            <item
+                android:id="@+id/nav_Emploie"
+                android:icon="@drawable/time"
+                android:title="@string/menu_Emploie" />
+            <item
+                android:id="@+id/nav_Exam"
+                android:icon="@drawable/exam"
+                android:title="@string/menu_Exams" />
+        </group>
+    </menu>
+</item>
+    <item android:title="About Application">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_information"
+                    android:icon="@drawable/info"
+                    android:title="@string/menu_information" />
+                <item
+                    android:id="@+id/nav_TextNote"
+                    android:icon="@drawable/note"
+                    android:title="@string/menu_note" />
+                <item
+                    android:id="@+id/nav_Register"
+                    android:icon="@drawable/comment"
+                    android:title="Register" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
